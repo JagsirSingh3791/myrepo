@@ -1,0 +1,8 @@
+1. Github Account
+2. Empty  Repo
+3. local sysytem
+   git config --user.name "JagsirSingh3791"
+   git config --user.email"jagsisingh76729@gamil.com"
+4. git push -u origin master
+  4.1. username? -> "JagsirSingh3791"
+  4.2. password  -> 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
